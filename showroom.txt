@@ -1,0 +1,6 @@
+1 Ninja 10
+2 Dora 5
+3 Suhi 8
+4 UK 15
+5 Indian 20
+     
